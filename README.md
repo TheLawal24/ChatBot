@@ -1,0 +1,3 @@
+Chatbots play a pivotal role for businesses as they can effortlessly  without any slowdown. They automate a majority of the customer service process,  single-handedly reducing the customer service workload. The chatbots utilize a variety of techniques backed with artificial intelligence, machine learning and data science.
+
+Chatbots analyze the input from the customer and reply with an appropriate mapped response. To train the chatbot, you can use recurrent neural networks with the intents JSON dataset, while the implementation can be handled using Python. Whether you want your chatbot to be domain-specific or open-domain depends on its purpose. As these chatbots process more interactions, their intelligence and accuracy also increase.
